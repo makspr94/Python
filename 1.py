@@ -1,0 +1,2 @@
+nn = bool
+print (nn)
